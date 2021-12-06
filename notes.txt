@@ -1,0 +1,6 @@
+Common Response Error
+{
+  errors: {
+    message: string, field?: string
+  }[]
+}
